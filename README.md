@@ -21,6 +21,7 @@ A structured collection of notebooks and resources covering the foundations of m
 | 7 | **k-Nearest Neighbors (k-NN) Algorithm** | Instance-based learning and the k-NN algorithm for classification/regression |
 | 8 | **Supervised Learning Mini Project** | Applied project consolidating supervised learning concepts on a real dataset |
 
+![LDA QDA animation](assets/images/5.gif)
 ## 🎯 Objectives
 
 - Build a solid foundation in core machine learning terminology and concepts
