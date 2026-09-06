@@ -31,6 +31,7 @@ A structured collection of notebooks and resources covering the foundations of m
 - Communicate model performance clearly to both technical and non-technical audiences
 - Apply supervised learning end-to-end through a mini project
 
+ <img src="assets/images/2.png" alt="IMAGE" style="width:100%; height:auto;" />
 ## 🛠️ Tech Stack
 
 - **Language:** Python
